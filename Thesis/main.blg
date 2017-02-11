@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: firstPage.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: sceneUnderstanding.aux
+A level-1 auxiliary file: sentenceGeneration.aux
+A level-1 auxiliary file: conclusion.aux
+The style file: unsrt-fa.bst.bst
+Database file #1: ref.bib
+Repeated entry---line 223 of file ref.bib
+ : @inproceedings{karpathy2015deep
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "sutskever2011ge3nerating"
+-- unsrt-fa.bst version 0.5 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 27 entries,
+            2198 wiz_defined-function locations,
+            731 strings with 10331 characters,
+and the built_in function-call counts, 8946 in all, are:
+= -- 785
+> -- 347
+< -- 14
++ -- 125
+- -- 98
+* -- 548
+:= -- 1198
+add.period$ -- 90
+call.type$ -- 27
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 422
+empty$ -- 822
+format.name$ -- 98
+if$ -- 2208
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 138
+newline$ -- 249
+num.names$ -- 27
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 249
+stack$ -- 0
+substring$ -- 616
+swap$ -- 167
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 0
+while$ -- 84
+width$ -- 29
+write$ -- 388
+(There was 1 error message)

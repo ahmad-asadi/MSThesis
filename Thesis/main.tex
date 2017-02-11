@@ -1,0 +1,134 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{relsize}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{fancyhdr}
+\usepackage[font=scriptsize]{caption}
+
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+}
+
+\usepackage{xepersian}
+\settextfont[Scale=1.2]{B Nazanin}
+%\fontsize{14}{20}\selectfont
+\linespread{1.5}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\includeonly{introduction}
+%\includeonly{sceneUnderstanding}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+
+\newcommand{\enfootnote}[1]{\LTRfootnote{\lr{#1}}}
+
+\newcounter{mypagecount}% create a new counter
+\setcounter{mypagecount}{0}% set it to something just in case
+\newenvironment{interlude}{% create a new environment for the unnumbered section(s)
+\newgeometry{top=50mm}
+  \clearpage
+%  \setcounter{mypagecount}{\value{page}}% use the new counter we created to hold the page count at the start of the unnumbered section
+  \thispagestyle{empty}% we want this page to be empty (adjust to use a modified page style)
+  \pagestyle{empty}% use the same style for subsequent pages in the unnumbered section
+  }{%
+  \clearpage
+%  \setcounter{page}{\value{mypagecount}}% restore the incremented value to the official tally of pages so the page numbering continues correctly
+\newgeometry{top=20mm}
+
+  }
+
+
+\newcommand{\createTitlePage}[2]{
+\newpage
+\begin{interlude}
+\vspace{5cm}
+\section[#1 #2]{
+    \Huge
+    \textbf{#1}\\
+    \center
+    \textbf{#2}
+    }
+    
+\end{interlude}
+
+\newpage
+}
+
+\newcommand{\ML}[1]{\mathlarger{\mathlarger{#1}}}
+
+\SepMark{-}
+
+ \makeatletter
+    \renewcommand\tableofcontents{%
+        \section*{\centering\contentsname
+            \@mkboth{%
+               \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
+        \@starttoc{toc}%
+        }
+     \renewcommand\listoftables{%
+            \section*{\centering\listtablename}%
+              \@mkboth{%
+                  \MakeUppercase\listtablename}%
+                 {\MakeUppercase\listtablename}%
+            \@starttoc{lot}%
+            }
+    \renewcommand\listoffigures{%
+        \section*{\centering\listfigurename}%
+          \@mkboth{\MakeUppercase\listfigurename}%
+                  {\MakeUppercase\listfigurename}%
+        \@starttoc{lof}%
+        }
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%\pagestyle{fancy}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+%\renewcommand{\subsubsectionmark}[1]{\markright{\thesection\ #1}}
+%\rhead{\fancyplain{}{\rightmark }} % 1. sectionname, 1.1 subsection name etc
+%%\cfoot{\fancyplain{}{\thepage}}
+
+\pagenumbering{alph}
+\include{firstPage}
+\newpage
+\vfill
+\include{abstract}
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+\listoftables
+
+
+\newpage
+\pagenumbering{arabic}
+
+%\createTitlePage{فصل اول}{مقدمه}
+\include{introduction}
+
+%\createTitlePage{فصل دوم}{درک صحنه}
+\include{sceneUnderstanding}
+
+%\createTitlePage{فصل سوم}{تولید شرح متناظر صحنه}
+\include{sentenceGeneration}
+%
+%\createTitlePage{فصل چهارم}{ارائه نتایج}
+%\include{evaluation}
+%
+\createTitlePage{فصل چهارم}{جمع‌بندی و نتیجه‌گیری}
+\include{conclusion}
+
+
+%\createTitlePage{مراجع و منابع}{}
+\bibliography{ref}
+\bibliographystyle{unsrt-fa.bst}
+\end{document}

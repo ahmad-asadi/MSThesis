@@ -31,3 +31,6 @@
 \contentsline {figure}{\numberline {29}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی ارائه شده برا تولید جمله\cite {karpathy2015deep}\relax }}{52}{figure.caption.35}
 \contentsline {figure}{\numberline {30}{\ignorespaces نتایج رتبه‌بندی عبارات زبانی برای نواحی تصویر \cite {karpathy2015deep}\relax }}{53}{figure.caption.37}
 \contentsline {figure}{\numberline {31}{\ignorespaces نتایج تولید جمله برای تصاویر در \cite {karpathy2015deep}\relax }}{53}{figure.caption.38}
+\contentsline {figure}{\numberline {32}{\ignorespaces ساختار کلی چارچوب کاری انکودر-دیکودر\relax }}{60}{figure.caption.39}
+\contentsline {figure}{\numberline {33}{\ignorespaces ساختار دیکودر مورد استفاده در چارچوب کاری \cite {bahdanau2014neural}\relax }}{61}{figure.caption.40}
+\contentsline {figure}{\numberline {34}{\ignorespaces ساختار کلی یک شبکه عصبی بازگشتی دوطرفه\relax }}{63}{figure.caption.41}

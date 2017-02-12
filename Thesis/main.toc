@@ -26,5 +26,17 @@
 \contentsline {subsubsection}{\numberline {3‏-‏6‏-‏1}شبکه عصبی بازگشتی ضربی}{46}{subsubsection.3.6.1}
 \contentsline {subsubsection}{\numberline {3‏-‏6‏-‏2}تولید جمله با مفهوم مشخص}{48}{subsubsection.3.6.2}
 \contentsline {subsection}{\numberline {3‏-‏7}جمع‌بندی}{53}{subsection.3.7}
-\contentsline {section}{\numberline {4}فصل چهارم جمع‌بندی و نتیجه‌گیری}{56}{section.4}
-\contentsline {subsection}{\numberline {4‏-‏1}جمع‌بندی و نتیجه‌گیری}{57}{subsection.4.1}
+\contentsline {section}{\numberline {4}فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{56}{section.4}
+\contentsline {subsection}{\numberline {4‏-‏1}تولید شرح بر تصاویر با استفاده از یادگیری عمیق}{57}{subsection.4.1}
+\contentsline {section}{\numberline {5}فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر نقطه توجه}{58}{section.5}
+\contentsline {subsection}{\numberline {5‏-‏1}تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{59}{subsection.5.1}
+\contentsline {subsection}{\numberline {5‏-‏2}روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{59}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏1}انکودر}{60}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏2}دیکودر}{61}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏3}ایده اصلی استفاده از نقطه توجه}{61}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏4}دیکودر در روش مبتنی بر نقطه توجه}{62}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏5}انکودر در روش مبتنی بر نقطه توجه}{63}{subsubsection.5.2.5}
+\contentsline {section}{\numberline {6}فصل ششم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر حافظه فعال}{65}{section.6}
+\contentsline {subsection}{\numberline {6‏-‏1}تولید جمله}{66}{subsection.6.1}
+\contentsline {section}{\numberline {7}فصل هفتم جمع‌بندی و نتیجه‌گیری}{67}{section.7}
+\contentsline {subsection}{\numberline {7‏-‏1}جمع‌بندی و نتیجه‌گیری}{68}{subsection.7.1}

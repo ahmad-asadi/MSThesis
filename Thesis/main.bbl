@@ -279,4 +279,14 @@ Mao, Junhua, Xu, Wei, Yang, Yi, Wang, Jiang, and Yuille, Alan~L.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{bahdanau2014neural}
+Bahdanau, Dzmitry, Cho, Kyunghyun, and Bengio, Yoshua.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em arXiv preprint arXiv:1409.0473}, 2014.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

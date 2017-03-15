@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  12 FEB 2017 14:51
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  13 FEB 2017 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2001,8 +2001,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: Imgs/5-decoder.png Graphic file (type QTm)
  <use  "Imgs/5-decoder.png" > [61] [62]
 File: Imgs/biencoder.png Graphic file (type QTm)
- <use  "Imgs/biencoder.png" >)
-[63] [64]
+ <use  "Imgs/biencoder.png" >
+[63]) [64]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -2194,10 +2194,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 25489 strings out of 493918
- 466710 string characters out of 6150563
+ 25490 strings out of 493918
+ 466718 string characters out of 6150563
  549353 words of memory out of 5000000
- 28299 multiletter control sequences out of 15000+600000
+ 28300 multiletter control sequences out of 15000+600000
  10699 words of font info for 107 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  45i,27n,47p,10452b,571s stack positions out of 5000i,500n,10000p,200000b,80000s

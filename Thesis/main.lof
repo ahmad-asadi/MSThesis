@@ -24,23 +24,24 @@
 \contentsline {figure}{\numberline {22}{\ignorespaces نمونه‌های صحیح از جملات تولید شده توسط قالب‌های آماده زبانی\cite {gupta2012image}\relax }}{44}{figure.caption.26}
 \contentsline {figure}{\numberline {23}{\ignorespaces نمونه‌های اشتباه تولید شده توسط قالب‌های آماده زبانی\cite {gupta2012image}\relax }}{44}{figure.caption.27}
 \contentsline {figure}{\numberline {24}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی ضربی \cite {sutskever2011generating}\relax }}{47}{figure.caption.29}
-\contentsline {figure}{\numberline {25}{\ignorespaces هم‌ترازسازی تصویر و جمله\cite {karpathy2015deep}\relax }}{48}{figure.caption.30}
-\contentsline {figure}{\numberline {26}{\ignorespaces ارتباط بین نواحی مختلف یک تصویر و عبارات جمله\cite {karpathy2015deep}\relax }}{49}{figure.caption.31}
-\contentsline {figure}{\numberline {27}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی دوطرفه\cite {karpathy2015deep}\relax }}{50}{figure.caption.32}
-\contentsline {figure}{\numberline {28}{\ignorespaces انتساب نواحی مختلف تصویر به عبارات زبانی\cite {karpathy2015deep}\relax }}{51}{figure.caption.33}
-\contentsline {figure}{\numberline {29}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی ارائه شده برا تولید جمله\cite {karpathy2015deep}\relax }}{52}{figure.caption.34}
-\contentsline {figure}{\numberline {30}{\ignorespaces نتایج رتبه‌بندی عبارات زبانی برای نواحی تصویر \cite {karpathy2015deep}\relax }}{53}{figure.caption.36}
-\contentsline {figure}{\numberline {31}{\ignorespaces نتایج تولید جمله برای تصاویر در \cite {karpathy2015deep}\relax }}{53}{figure.caption.37}
-\contentsline {figure}{\numberline {32}{\ignorespaces ساختار کلی چارچوب کاری انکودر-دیکودر\relax }}{60}{figure.caption.38}
-\contentsline {figure}{\numberline {33}{\ignorespaces ساختار دیکودر مورد استفاده در چارچوب کاری \cite {bahdanau2014neural}\relax }}{61}{figure.caption.39}
-\contentsline {figure}{\numberline {34}{\ignorespaces ساختار کلی یک شبکه عصبی بازگشتی دوطرفه\relax }}{63}{figure.caption.40}
-\contentsline {figure}{\numberline {35}{\ignorespaces یک واحد از شبکه حافظه کوتاه‌مدت بلند مورد استفاده در دیکودر پژوهش \cite {xu2015show}\relax }}{65}{figure.caption.41}
-\contentsline {figure}{\numberline {36}{\ignorespaces نحوه عمل‌کرد الگوریتم در تغییر نقطه توجه بصری و کلمه تولید شده در هر نقطه. \cite {xu2015show}\relax }}{68}{figure.caption.43}
-\contentsline {figure}{\numberline {37}{\ignorespaces چند نمونه از تصاویر که در آن‌ها توجه بصری روی یک جسم منجر به تولید کلمه دقیق متناظر شده است\cite {xu2015show}. \relax }}{70}{figure.caption.44}
-\contentsline {figure}{\numberline {38}{\ignorespaces نمونه‌هایی از تولید کلمات نامناسب مطابق با نقاط توجه استفاده شده در مدل‌\cite {xu2015show}\relax }}{70}{figure.caption.45}
-\contentsline {figure}{\numberline {39}{\ignorespaces فرایند تولید شرح متناظر تصویر با استفاده از توجه بصری سخت \cite {xu2015show}\relax }}{71}{figure.caption.46}
-\contentsline {figure}{\numberline {40}{\ignorespaces فرایند تولید شرح متناظر تصویر با استفاده از توجه بصری نرم \cite {xu2015show}\relax }}{71}{figure.caption.47}
-\contentsline {figure}{\numberline {41}{\ignorespaces ساختار گسترده شبکه عصبی \lr {GPU} مطرح‌شده در پژوهش \cite {lukas2016neural}\relax }}{75}{figure.caption.48}
-\contentsline {figure}{\numberline {42}{\ignorespaces ساختار نسخه ماکفی شبکه \lr {GPU} ارائه شده در پژوهش \cite {lukas2017can}\relax }}{76}{figure.caption.49}
-\contentsline {figure}{\numberline {43}{\ignorespaces ساختار شبکه توسعه‌یافته \lr {GPU} ارائه شده در \cite {lukas2017can}\relax }}{77}{figure.caption.50}
-\contentsline {figure}{\numberline {44}{\ignorespaces مقایسه عمل‌کرد مدل‌های مختلف نسبت به طول جملات \cite {lukas2017can}\relax }}{79}{figure.caption.52}
+\contentsline {figure}{\numberline {25}{\ignorespaces هم‌ترازسازی تصویر و جمله\cite {karpathy2015deep}\relax }}{52}{figure.caption.30}
+\contentsline {figure}{\numberline {26}{\ignorespaces ارتباط بین نواحی مختلف یک تصویر و عبارات جمله\cite {karpathy2015deep}\relax }}{53}{figure.caption.31}
+\contentsline {figure}{\numberline {27}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی دوطرفه\cite {karpathy2015deep}\relax }}{54}{figure.caption.32}
+\contentsline {figure}{\numberline {28}{\ignorespaces انتساب نواحی مختلف تصویر به عبارات زبانی\cite {karpathy2015deep}\relax }}{55}{figure.caption.33}
+\contentsline {figure}{\numberline {29}{\ignorespaces طرح‌واره شبکه عصبی بازگشتی ارائه شده برا تولید جمله\cite {karpathy2015deep}\relax }}{56}{figure.caption.34}
+\contentsline {figure}{\numberline {30}{\ignorespaces نتایج رتبه‌بندی عبارات زبانی برای نواحی تصویر \cite {karpathy2015deep}\relax }}{56}{figure.caption.36}
+\contentsline {figure}{\numberline {31}{\ignorespaces نتایج تولید جمله برای تصاویر در \cite {karpathy2015deep}\relax }}{57}{figure.caption.37}
+\contentsline {figure}{\numberline {32}{\ignorespaces ساختار کلی شبکه ارائه شده برای نگاشت دوطرفه تصاویر و جملات در پژوهش \cite {chen2015mind}\relax }}{59}{figure.caption.38}
+\contentsline {figure}{\numberline {33}{\ignorespaces ساختار کلی چارچوب کاری انکودر-دیکودر\relax }}{62}{figure.caption.40}
+\contentsline {figure}{\numberline {34}{\ignorespaces ساختار دیکودر مورد استفاده در چارچوب کاری \cite {bahdanau2014neural}\relax }}{63}{figure.caption.41}
+\contentsline {figure}{\numberline {35}{\ignorespaces ساختار کلی یک شبکه عصبی بازگشتی دوطرفه\relax }}{65}{figure.caption.42}
+\contentsline {figure}{\numberline {36}{\ignorespaces یک واحد از شبکه حافظه کوتاه‌مدت بلند مورد استفاده در دیکودر پژوهش \cite {xu2015show}\relax }}{67}{figure.caption.43}
+\contentsline {figure}{\numberline {37}{\ignorespaces نحوه عمل‌کرد الگوریتم در تغییر نقطه توجه بصری و کلمه تولید شده در هر نقطه. \cite {xu2015show}\relax }}{70}{figure.caption.45}
+\contentsline {figure}{\numberline {38}{\ignorespaces چند نمونه از تصاویر که در آن‌ها توجه بصری روی یک جسم منجر به تولید کلمه دقیق متناظر شده است\cite {xu2015show}. \relax }}{72}{figure.caption.46}
+\contentsline {figure}{\numberline {39}{\ignorespaces نمونه‌هایی از تولید کلمات نامناسب مطابق با نقاط توجه استفاده شده در مدل‌\cite {xu2015show}\relax }}{72}{figure.caption.47}
+\contentsline {figure}{\numberline {40}{\ignorespaces فرایند تولید شرح متناظر تصویر با استفاده از توجه بصری سخت \cite {xu2015show}\relax }}{73}{figure.caption.48}
+\contentsline {figure}{\numberline {41}{\ignorespaces فرایند تولید شرح متناظر تصویر با استفاده از توجه بصری نرم \cite {xu2015show}\relax }}{73}{figure.caption.49}
+\contentsline {figure}{\numberline {42}{\ignorespaces ساختار گسترده شبکه عصبی \lr {GPU} مطرح‌شده در پژوهش \cite {lukas2016neural}\relax }}{77}{figure.caption.50}
+\contentsline {figure}{\numberline {43}{\ignorespaces ساختار نسخه ماکفی شبکه \lr {GPU} ارائه شده در پژوهش \cite {lukas2017can}\relax }}{78}{figure.caption.51}
+\contentsline {figure}{\numberline {44}{\ignorespaces ساختار شبکه توسعه‌یافته \lr {GPU} ارائه شده در \cite {lukas2017can}\relax }}{79}{figure.caption.52}
+\contentsline {figure}{\numberline {45}{\ignorespaces مقایسه عمل‌کرد مدل‌های مختلف نسبت به طول جملات \cite {lukas2017can}\relax }}{81}{figure.caption.54}

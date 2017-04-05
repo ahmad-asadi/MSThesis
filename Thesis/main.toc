@@ -24,27 +24,30 @@
 \contentsline {subsection}{\numberline {3‏-‏5}استفاده از قالب‌های آماده زبانی}{42}{subsection.3.5}
 \contentsline {subsection}{\numberline {3‏-‏6}روش‌های مبتنی بر شبکه‌های عصبی بازگشتی}{44}{subsection.3.6}
 \contentsline {subsubsection}{\numberline {3‏-‏6‏-‏1}شبکه عصبی بازگشتی ضربی}{46}{subsubsection.3.6.1}
-\contentsline {subsubsection}{\numberline {3‏-‏6‏-‏2}تولید جمله با مفهوم مشخص}{48}{subsubsection.3.6.2}
-\contentsline {subsection}{\numberline {3‏-‏7}جمع‌بندی}{53}{subsection.3.7}
-\contentsline {section}{\numberline {4}فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{56}{section.4}
-\contentsline {subsection}{\numberline {4‏-‏1}تولید شرح بر تصاویر با استفاده از یادگیری عمیق}{57}{subsection.4.1}
-\contentsline {section}{\numberline {5}فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر توجه بصری}{58}{section.5}
-\contentsline {subsection}{\numberline {5‏-‏1}تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{59}{subsection.5.1}
-\contentsline {subsection}{\numberline {5‏-‏2}روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{59}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏1}انکودر}{60}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏2}دیکودر}{61}{subsubsection.5.2.2}
-\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏3}ایده اصلی استفاده از نقطه توجه}{61}{subsubsection.5.2.3}
-\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏4}دیکودر در روش مبتنی بر نقطه توجه}{62}{subsubsection.5.2.4}
-\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏5}انکودر در روش مبتنی بر نقطه توجه}{63}{subsubsection.5.2.5}
-\contentsline {subsection}{\numberline {5‏-‏3}روش‌های مبتنی بر نقطه توجه در حوزه تولید شرح متناظر تصویر}{64}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5‏-‏3‏-‏1}تولید شرح متناظر تصویر با استفاده از توجه بصری و شبکه‌های عصبی}{64}{subsubsection.5.3.1}
-\contentsline {section}{\numberline {6}فصل ششم حافظه فعال و مقایسه آن با مدل‌های مبتنی بر توجه بصری}{72}{section.6}
-\contentsline {subsection}{\numberline {6‏-‏1}حافظه فعال}{73}{subsection.6.1}
-\contentsline {subsection}{\numberline {6‏-‏2}واحد بازگشتی گیت‌دار}{73}{subsection.6.2}
-\contentsline {subsection}{\numberline {6‏-‏3}شبکه \lr {GPU}}{74}{subsection.6.3}
-\contentsline {subsection}{\numberline {6‏-‏4}استفاده از حافظه فعال در ترجمه ماشینی}{75}{subsection.6.4}
-\contentsline {subsubsection}{\numberline {6‏-‏4‏-‏1}نسخه مارکفی شبکه \lr {GPU}}{75}{subsubsection.6.4.1}
-\contentsline {subsubsection}{\numberline {6‏-‏4‏-‏2}نسخه توسعه‌یافته شبکه \lr {GPU}}{76}{subsubsection.6.4.2}
-\contentsline {subsection}{\numberline {6‏-‏5}بررسی عملکرد ایده حافظه فعال در حوزه ترجمه ماشینی}{78}{subsection.6.5}
-\contentsline {section}{\numberline {7}فصل هفتم جمع‌بندی و نتیجه‌گیری}{81}{section.7}
-\contentsline {subsection}{\numberline {7‏-‏1}جمع‌بندی و نتیجه‌گیری}{82}{subsection.7.1}
+\contentsline {subsection}{\numberline {3‏-‏7}جمع‌بندی}{48}{subsection.3.7}
+\contentsline {section}{\numberline {4}فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{50}{section.4}
+\contentsline {subsection}{\numberline {4‏-‏1}مقدمه}{51}{subsection.4.1}
+\contentsline {subsection}{\numberline {4‏-‏2}تولید جمله با مفهوم مشخص}{52}{subsection.4.2}
+\contentsline {subsection}{\numberline {4‏-‏3}مدل دوطرفه نگاشت تصاویر و جملات مبتنی بر یادگیری عمیق}{57}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4‏-‏3‏-‏1}مدل زبانی مبتنی بر شبکه عصبی بازگشتی}{57}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4‏-‏3‏-‏2}مدل دوطرفه نگاشت تصاویر و جملات با استفاده از شبکه عصبی بازگشتی}{58}{subsubsection.4.3.2}
+\contentsline {section}{\numberline {5}فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر توجه بصری}{60}{section.5}
+\contentsline {subsection}{\numberline {5‏-‏1}تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{61}{subsection.5.1}
+\contentsline {subsection}{\numberline {5‏-‏2}روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{61}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏1}انکودر}{62}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏2}دیکودر}{63}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏3}ایده اصلی استفاده از نقطه توجه}{63}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏4}دیکودر در روش مبتنی بر نقطه توجه}{64}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5‏-‏2‏-‏5}انکودر در روش مبتنی بر نقطه توجه}{65}{subsubsection.5.2.5}
+\contentsline {subsection}{\numberline {5‏-‏3}روش‌های مبتنی بر نقطه توجه در حوزه تولید شرح متناظر تصویر}{66}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5‏-‏3‏-‏1}تولید شرح متناظر تصویر با استفاده از توجه بصری و شبکه‌های عصبی}{66}{subsubsection.5.3.1}
+\contentsline {section}{\numberline {6}فصل ششم حافظه فعال و مقایسه آن با مدل‌های مبتنی بر توجه بصری}{74}{section.6}
+\contentsline {subsection}{\numberline {6‏-‏1}حافظه فعال}{75}{subsection.6.1}
+\contentsline {subsection}{\numberline {6‏-‏2}واحد بازگشتی گیت‌دار}{75}{subsection.6.2}
+\contentsline {subsection}{\numberline {6‏-‏3}شبکه \lr {GPU}}{76}{subsection.6.3}
+\contentsline {subsection}{\numberline {6‏-‏4}استفاده از حافظه فعال در ترجمه ماشینی}{77}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6‏-‏4‏-‏1}نسخه مارکفی شبکه \lr {GPU}}{77}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6‏-‏4‏-‏2}نسخه توسعه‌یافته شبکه \lr {GPU}}{78}{subsubsection.6.4.2}
+\contentsline {subsection}{\numberline {6‏-‏5}بررسی عملکرد ایده حافظه فعال در حوزه ترجمه ماشینی}{80}{subsection.6.5}
+\contentsline {section}{\numberline {7}فصل هفتم جمع‌بندی و نتیجه‌گیری}{83}{section.7}
+\contentsline {subsection}{\numberline {7‏-‏1}جمع‌بندی و نتیجه‌گیری}{84}{subsection.7.1}

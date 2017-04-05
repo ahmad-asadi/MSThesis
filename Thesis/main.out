@@ -24,27 +24,30 @@
 \BOOKMARK [2][-]{subsection.3.5}{استفاده از قالب‌های آماده زبانی}{section.3}% 24
 \BOOKMARK [2][-]{subsection.3.6}{روش‌های مبتنی بر شبکه‌های عصبی بازگشتی}{section.3}% 25
 \BOOKMARK [3][-]{subsubsection.3.6.1}{شبکه عصبی بازگشتی ضربی}{subsection.3.6}% 26
-\BOOKMARK [3][-]{subsubsection.3.6.2}{تولید جمله با مفهوم مشخص}{subsection.3.6}% 27
-\BOOKMARK [2][-]{subsection.3.7}{جمع‌بندی}{section.3}% 28
-\BOOKMARK [1][-]{section.4}{فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{}% 29
-\BOOKMARK [2][-]{subsection.4.1}{تولید شرح بر تصاویر با استفاده از یادگیری عمیق}{section.4}% 30
-\BOOKMARK [1][-]{section.5}{فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر توجه بصری}{}% 31
-\BOOKMARK [2][-]{subsection.5.1}{تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{section.5}% 32
-\BOOKMARK [2][-]{subsection.5.2}{روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{section.5}% 33
-\BOOKMARK [3][-]{subsubsection.5.2.1}{انکودر}{subsection.5.2}% 34
-\BOOKMARK [3][-]{subsubsection.5.2.2}{دیکودر}{subsection.5.2}% 35
-\BOOKMARK [3][-]{subsubsection.5.2.3}{ایده اصلی استفاده از نقطه توجه}{subsection.5.2}% 36
-\BOOKMARK [3][-]{subsubsection.5.2.4}{دیکودر در روش مبتنی بر نقطه توجه}{subsection.5.2}% 37
-\BOOKMARK [3][-]{subsubsection.5.2.5}{انکودر در روش مبتنی بر نقطه توجه}{subsection.5.2}% 38
-\BOOKMARK [2][-]{subsection.5.3}{روش‌های مبتنی بر نقطه توجه در حوزه تولید شرح متناظر تصویر}{section.5}% 39
-\BOOKMARK [3][-]{subsubsection.5.3.1}{تولید شرح متناظر تصویر با استفاده از توجه بصری و شبکه‌های عصبی}{subsection.5.3}% 40
-\BOOKMARK [1][-]{section.6}{فصل ششم حافظه فعال و مقایسه آن با مدل‌های مبتنی بر توجه بصری}{}% 41
-\BOOKMARK [2][-]{subsection.6.1}{حافظه فعال}{section.6}% 42
-\BOOKMARK [2][-]{subsection.6.2}{واحد بازگشتی گیت‌دار}{section.6}% 43
-\BOOKMARK [2][-]{subsection.6.3}{شبکه GPU}{section.6}% 44
-\BOOKMARK [2][-]{subsection.6.4}{استفاده از حافظه فعال در ترجمه ماشینی}{section.6}% 45
-\BOOKMARK [3][-]{subsubsection.6.4.1}{نسخه مارکفی شبکه GPU}{subsection.6.4}% 46
-\BOOKMARK [3][-]{subsubsection.6.4.2}{نسخه توسعه‌یافته شبکه GPU}{subsection.6.4}% 47
-\BOOKMARK [2][-]{subsection.6.5}{بررسی عملکرد ایده حافظه فعال در حوزه ترجمه ماشینی}{section.6}% 48
-\BOOKMARK [1][-]{section.7}{فصل هفتم جمع‌بندی و نتیجه‌گیری}{}% 49
-\BOOKMARK [2][-]{subsection.7.1}{جمع‌بندی و نتیجه‌گیری}{section.7}% 50
+\BOOKMARK [2][-]{subsection.3.7}{جمع‌بندی}{section.3}% 27
+\BOOKMARK [1][-]{section.4}{فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{}% 28
+\BOOKMARK [2][-]{subsection.4.1}{مقدمه}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.2}{تولید جمله با مفهوم مشخص}{section.4}% 30
+\BOOKMARK [2][-]{subsection.4.3}{مدل دوطرفه نگاشت تصاویر و جملات مبتنی بر یادگیری عمیق}{section.4}% 31
+\BOOKMARK [3][-]{subsubsection.4.3.1}{مدل زبانی مبتنی بر شبکه عصبی بازگشتی}{subsection.4.3}% 32
+\BOOKMARK [3][-]{subsubsection.4.3.2}{مدل دوطرفه نگاشت تصاویر و جملات با استفاده از شبکه عصبی بازگشتی}{subsection.4.3}% 33
+\BOOKMARK [1][-]{section.5}{فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر توجه بصری}{}% 34
+\BOOKMARK [2][-]{subsection.5.1}{تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{section.5}% 35
+\BOOKMARK [2][-]{subsection.5.2}{روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{section.5}% 36
+\BOOKMARK [3][-]{subsubsection.5.2.1}{انکودر}{subsection.5.2}% 37
+\BOOKMARK [3][-]{subsubsection.5.2.2}{دیکودر}{subsection.5.2}% 38
+\BOOKMARK [3][-]{subsubsection.5.2.3}{ایده اصلی استفاده از نقطه توجه}{subsection.5.2}% 39
+\BOOKMARK [3][-]{subsubsection.5.2.4}{دیکودر در روش مبتنی بر نقطه توجه}{subsection.5.2}% 40
+\BOOKMARK [3][-]{subsubsection.5.2.5}{انکودر در روش مبتنی بر نقطه توجه}{subsection.5.2}% 41
+\BOOKMARK [2][-]{subsection.5.3}{روش‌های مبتنی بر نقطه توجه در حوزه تولید شرح متناظر تصویر}{section.5}% 42
+\BOOKMARK [3][-]{subsubsection.5.3.1}{تولید شرح متناظر تصویر با استفاده از توجه بصری و شبکه‌های عصبی}{subsection.5.3}% 43
+\BOOKMARK [1][-]{section.6}{فصل ششم حافظه فعال و مقایسه آن با مدل‌های مبتنی بر توجه بصری}{}% 44
+\BOOKMARK [2][-]{subsection.6.1}{حافظه فعال}{section.6}% 45
+\BOOKMARK [2][-]{subsection.6.2}{واحد بازگشتی گیت‌دار}{section.6}% 46
+\BOOKMARK [2][-]{subsection.6.3}{شبکه GPU}{section.6}% 47
+\BOOKMARK [2][-]{subsection.6.4}{استفاده از حافظه فعال در ترجمه ماشینی}{section.6}% 48
+\BOOKMARK [3][-]{subsubsection.6.4.1}{نسخه مارکفی شبکه GPU}{subsection.6.4}% 49
+\BOOKMARK [3][-]{subsubsection.6.4.2}{نسخه توسعه‌یافته شبکه GPU}{subsection.6.4}% 50
+\BOOKMARK [2][-]{subsection.6.5}{بررسی عملکرد ایده حافظه فعال در حوزه ترجمه ماشینی}{section.6}% 51
+\BOOKMARK [1][-]{section.7}{فصل هفتم جمع‌بندی و نتیجه‌گیری}{}% 52
+\BOOKMARK [2][-]{subsection.7.1}{جمع‌بندی و نتیجه‌گیری}{section.7}% 53

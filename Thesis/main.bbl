@@ -88,11 +88,11 @@ Bahdanau, Dzmitry, Cho, Kyunghyun, and Bengio, Yoshua.
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{xu2015show}
-Xu, Kelvin, Ba, Jimmy, Kiros, Ryan, Cho, Kyunghyun, Courville, Aaron,
+Xu, Kelvin, Ba, Jimmy, Kiros, Ryan, Cho, Kyunghyun, Courville, Aaron~C,
   Salakhutdinov, Ruslan, Zemel, Richard~S, and Bengio, Yoshua.
 \newblock Show, attend and tell: Neural image caption generation with visual
   attention.
-\newblock {\em arXiv preprint arXiv:1502.03044}, 2(3):5, 2015.
+\newblock  in {\em ICML},  vol.~14,  pp. 77--81, 2015.
 
 \end{LTRbibitems}
 
@@ -309,10 +309,40 @@ Mao, Junhua, Xu, Wei, Yang, Yi, Wang, Jiang, and Yuille, Alan~L.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{mikolov2010recurrent}
+Mikolov, Tomas, Karafi{\'a}t, Martin, Burget, Lukas, Cernock{\`y}, Jan, and
+  Khudanpur, Sanjeev.
+\newblock Recurrent neural network based language model.
+\newblock  in {\em Interspeech},  vol.~2,  p.~3, 2010.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{chen2015mind}
+Chen, Xinlei and Lawrence~Zitnick, C.
+\newblock Mind's eye: A recurrent visual representation for image caption
+  generation.
+\newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition},  pp. 2422--2431, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{kingma2014adam}
 Kingma, Diederik and Ba, Jimmy.
 \newblock Adam: A method for stochastic optimization.
 \newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hinton2015grammar}
+Vinyals, Kaiser, Koo, Petrov, Sutskever, and Hinton.
+\newblock Grammar as a foreign language.
+\newblock  in {\em Advances in Neural Information Processing Systems}, 2015.
 
 \end{LTRbibitems}
 

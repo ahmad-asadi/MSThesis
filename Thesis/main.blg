@@ -12,50 +12,48 @@ A level-1 auxiliary file: activeMemoryBasedImageCaptioning.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: unsrt-fa.bst.bst
 Database file #1: ref.bib
-Warning--I didn't find a database entry for "sutskever2011ge3nerating"
 -- unsrt-fa.bst version 0.5 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 31 entries,
+You've used 34 entries,
             2198 wiz_defined-function locations,
-            752 strings with 10942 characters,
-and the built_in function-call counts, 9611 in all, are:
-= -- 833
-> -- 382
-< -- 14
-+ -- 138
-- -- 107
-* -- 571
-:= -- 1309
-add.period$ -- 102
-call.type$ -- 31
-change.case$ -- 31
+            764 strings with 11367 characters,
+and the built_in function-call counts, 10740 in all, are:
+= -- 921
+> -- 427
+< -- 19
++ -- 154
+- -- 120
+* -- 630
+:= -- 1446
+add.period$ -- 111
+call.type$ -- 34
+change.case$ -- 34
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 454
-empty$ -- 878
-format.name$ -- 107
-if$ -- 2362
+cite$ -- 34
+duplicate$ -- 514
+empty$ -- 988
+format.name$ -- 120
+if$ -- 2656
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 154
-newline$ -- 285
-num.names$ -- 31
-pop$ -- 129
+int.to.str$ -- 34
+missing$ -- 175
+newline$ -- 312
+num.names$ -- 34
+pop$ -- 152
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 264
+skip$ -- 305
 stack$ -- 0
-substring$ -- 616
-swap$ -- 171
-text.length$ -- 14
+substring$ -- 679
+swap$ -- 201
+text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 0
-while$ -- 88
-width$ -- 33
-write$ -- 440
-(There was 1 warning)
+while$ -- 97
+width$ -- 36
+write$ -- 483

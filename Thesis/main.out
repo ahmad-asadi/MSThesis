@@ -28,7 +28,7 @@
 \BOOKMARK [2][-]{subsection.3.7}{جمع‌بندی}{section.3}% 28
 \BOOKMARK [1][-]{section.4}{فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{}% 29
 \BOOKMARK [2][-]{subsection.4.1}{تولید شرح بر تصاویر با استفاده از یادگیری عمیق}{section.4}% 30
-\BOOKMARK [1][-]{section.5}{فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر نقطه توجه}{}% 31
+\BOOKMARK [1][-]{section.5}{فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر توجه بصری}{}% 31
 \BOOKMARK [2][-]{subsection.5.1}{تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{section.5}% 32
 \BOOKMARK [2][-]{subsection.5.2}{روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{section.5}% 33
 \BOOKMARK [3][-]{subsubsection.5.2.1}{انکودر}{subsection.5.2}% 34
@@ -36,7 +36,15 @@
 \BOOKMARK [3][-]{subsubsection.5.2.3}{ایده اصلی استفاده از نقطه توجه}{subsection.5.2}% 36
 \BOOKMARK [3][-]{subsubsection.5.2.4}{دیکودر در روش مبتنی بر نقطه توجه}{subsection.5.2}% 37
 \BOOKMARK [3][-]{subsubsection.5.2.5}{انکودر در روش مبتنی بر نقطه توجه}{subsection.5.2}% 38
-\BOOKMARK [1][-]{section.6}{فصل ششم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر حافظه فعال}{}% 39
-\BOOKMARK [2][-]{subsection.6.1}{تولید جمله}{section.6}% 40
-\BOOKMARK [1][-]{section.7}{فصل هفتم جمع‌بندی و نتیجه‌گیری}{}% 41
-\BOOKMARK [2][-]{subsection.7.1}{جمع‌بندی و نتیجه‌گیری}{section.7}% 42
+\BOOKMARK [2][-]{subsection.5.3}{روش‌های مبتنی بر نقطه توجه در حوزه تولید شرح متناظر تصویر}{section.5}% 39
+\BOOKMARK [3][-]{subsubsection.5.3.1}{تولید شرح متناظر تصویر با استفاده از توجه بصری و شبکه‌های عصبی}{subsection.5.3}% 40
+\BOOKMARK [1][-]{section.6}{فصل ششم حافظه فعال و مقایسه آن با مدل‌های مبتنی بر توجه بصری}{}% 41
+\BOOKMARK [2][-]{subsection.6.1}{حافظه فعال}{section.6}% 42
+\BOOKMARK [2][-]{subsection.6.2}{واحد بازگشتی گیت‌دار}{section.6}% 43
+\BOOKMARK [2][-]{subsection.6.3}{شبکه GPU}{section.6}% 44
+\BOOKMARK [2][-]{subsection.6.4}{استفاده از حافظه فعال در ترجمه ماشینی}{section.6}% 45
+\BOOKMARK [3][-]{subsubsection.6.4.1}{نسخه مارکفی شبکه GPU}{subsection.6.4}% 46
+\BOOKMARK [3][-]{subsubsection.6.4.2}{نسخه توسعه‌یافته شبکه GPU}{subsection.6.4}% 47
+\BOOKMARK [2][-]{subsection.6.5}{بررسی عملکرد ایده حافظه فعال در حوزه ترجمه ماشینی}{section.6}% 48
+\BOOKMARK [1][-]{section.7}{فصل هفتم جمع‌بندی و نتیجه‌گیری}{}% 49
+\BOOKMARK [2][-]{subsection.7.1}{جمع‌بندی و نتیجه‌گیری}{section.7}% 50

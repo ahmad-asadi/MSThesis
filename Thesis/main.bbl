@@ -77,12 +77,40 @@ Karpathy, Andrej and Fei-Fei, Li.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{bahdanau2014neural}
+Bahdanau, Dzmitry, Cho, Kyunghyun, and Bengio, Yoshua.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em arXiv preprint arXiv:1409.0473}, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{xu2015show}
 Xu, Kelvin, Ba, Jimmy, Kiros, Ryan, Cho, Kyunghyun, Courville, Aaron,
   Salakhutdinov, Ruslan, Zemel, Richard~S, and Bengio, Yoshua.
 \newblock Show, attend and tell: Neural image caption generation with visual
   attention.
 \newblock {\em arXiv preprint arXiv:1502.03044}, 2(3):5, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lukas2016neural}
+Kaiser, Lukasz and Sutskever, Ilya.
+\newblock Neural gpus learn algorithms.
+\newblock {\em arXiv preprint arXiv:1511.08228}, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lukas2017can}
+Kaiser, Lukas and Bengio, Samy.
+\newblock Can active memory replace attention?
+\newblock {\em arXiv preprint arXiv:1610.08313v2 [cs.LG]}, 2017.
 
 \end{LTRbibitems}
 
@@ -281,11 +309,10 @@ Mao, Junhua, Xu, Wei, Yang, Yi, Wang, Jiang, and Yuille, Alan~L.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{bahdanau2014neural}
-Bahdanau, Dzmitry, Cho, Kyunghyun, and Bengio, Yoshua.
-\newblock Neural machine translation by jointly learning to align and
-  translate.
-\newblock {\em arXiv preprint arXiv:1409.0473}, 2014.
+\bibitem{kingma2014adam}
+Kingma, Diederik and Ba, Jimmy.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
 
 \end{LTRbibitems}
 

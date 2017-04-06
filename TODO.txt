@@ -1,0 +1,6 @@
+Kiros, Ryan, Salahutdinov, Ruslan, and Zemel, Richard. Multi-
+modal neural language models. In International Conference on
+Machine Learning, pp. 595–603, 2014a.
+=> the first multimodal NN
+
+

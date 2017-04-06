@@ -28,7 +28,7 @@
 \contentsline {subsection}{\numberline {3‏-‏7}جمع‌بندی}{53}{subsection.3.7}
 \contentsline {section}{\numberline {4}فصل چهارم تولید شرح متناظر صحنه با استفاده از یادگیری عمیق}{56}{section.4}
 \contentsline {subsection}{\numberline {4‏-‏1}تولید شرح بر تصاویر با استفاده از یادگیری عمیق}{57}{subsection.4.1}
-\contentsline {section}{\numberline {5}فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر نقطه توجه}{58}{section.5}
+\contentsline {section}{\numberline {5}فصل پنجم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر توجه بصری}{58}{section.5}
 \contentsline {subsection}{\numberline {5‏-‏1}تولید شرح بر تصاویر با استفاده از روش‌های مبتنی بر نقطه توجه}{59}{subsection.5.1}
 \contentsline {subsection}{\numberline {5‏-‏2}روش‌های مبتنی بر نقطه توجه در حوزه ترجمه ماشینی}{59}{subsection.5.2}
 \contentsline {subsubsection}{\numberline {5‏-‏2‏-‏1}انکودر}{60}{subsubsection.5.2.1}
@@ -36,7 +36,15 @@
 \contentsline {subsubsection}{\numberline {5‏-‏2‏-‏3}ایده اصلی استفاده از نقطه توجه}{61}{subsubsection.5.2.3}
 \contentsline {subsubsection}{\numberline {5‏-‏2‏-‏4}دیکودر در روش مبتنی بر نقطه توجه}{62}{subsubsection.5.2.4}
 \contentsline {subsubsection}{\numberline {5‏-‏2‏-‏5}انکودر در روش مبتنی بر نقطه توجه}{63}{subsubsection.5.2.5}
-\contentsline {section}{\numberline {6}فصل ششم تولید شرح متناظر صحنه با استفاده از روش‌های مبتنی بر حافظه فعال}{65}{section.6}
-\contentsline {subsection}{\numberline {6‏-‏1}تولید جمله}{66}{subsection.6.1}
-\contentsline {section}{\numberline {7}فصل هفتم جمع‌بندی و نتیجه‌گیری}{67}{section.7}
-\contentsline {subsection}{\numberline {7‏-‏1}جمع‌بندی و نتیجه‌گیری}{68}{subsection.7.1}
+\contentsline {subsection}{\numberline {5‏-‏3}روش‌های مبتنی بر نقطه توجه در حوزه تولید شرح متناظر تصویر}{64}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5‏-‏3‏-‏1}تولید شرح متناظر تصویر با استفاده از توجه بصری و شبکه‌های عصبی}{64}{subsubsection.5.3.1}
+\contentsline {section}{\numberline {6}فصل ششم حافظه فعال و مقایسه آن با مدل‌های مبتنی بر توجه بصری}{72}{section.6}
+\contentsline {subsection}{\numberline {6‏-‏1}حافظه فعال}{73}{subsection.6.1}
+\contentsline {subsection}{\numberline {6‏-‏2}واحد بازگشتی گیت‌دار}{73}{subsection.6.2}
+\contentsline {subsection}{\numberline {6‏-‏3}شبکه \lr {GPU}}{74}{subsection.6.3}
+\contentsline {subsection}{\numberline {6‏-‏4}استفاده از حافظه فعال در ترجمه ماشینی}{75}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6‏-‏4‏-‏1}نسخه مارکفی شبکه \lr {GPU}}{75}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6‏-‏4‏-‏2}نسخه توسعه‌یافته شبکه \lr {GPU}}{76}{subsubsection.6.4.2}
+\contentsline {subsection}{\numberline {6‏-‏5}بررسی عملکرد ایده حافظه فعال در حوزه ترجمه ماشینی}{78}{subsection.6.5}
+\contentsline {section}{\numberline {7}فصل هفتم جمع‌بندی و نتیجه‌گیری}{81}{section.7}
+\contentsline {subsection}{\numberline {7‏-‏1}جمع‌بندی و نتیجه‌گیری}{82}{subsection.7.1}

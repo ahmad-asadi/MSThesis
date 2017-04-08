@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  5 APR 2017 21:04
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  8 APR 2017 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1229,14 +1229,8 @@ LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
 \c@mypagecount=\count201
 (./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux)
 (./sceneUnderstanding.aux) (./sentenceGeneration.aux)
-(./deepImageCaptioning.aux) (./attentionBasedImageCaptioning.aux
-
-LaTeX Warning: Label `eq:5-11' multiply defined.
-
-
-LaTeX Warning: Label `eq:5-11' multiply defined.
-
-) (./activeMemoryBasedImageCaptioning.aux) (./conclusion.aux))
+(./deepImageCaptioning.aux) (./attentionBasedImageCaptioning.aux)
+(./activeMemoryBasedImageCaptioning.aux) (./conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
@@ -1326,18 +1320,24 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `firstPage.aux'.
 
 (./firstPage.tex
+File: Imgs/fa_aut_just_logo.jpg Graphic file (type QTm)
+ <use  "Imgs/fa_aut_just_logo.jpg" >
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 12.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 24.88794pt on input line 18.
+(Font)              scaled to size 24.88794pt on input line 15.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 24.88794pt on input line 20.
+(Font)              scaled to size 24.88794pt on input line 17.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 23.
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 29.
+(Font)              scaled to size 13.13995pt on input line 20.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 20.73593pt on input line 31.
+(Font)              scaled to size 13.13995pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
+(Font)              scaled to size 17.27994pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 35.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
+(Font)              scaled to size 20.73593pt on input line 37.
+LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 40.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
@@ -1365,15 +1365,16 @@ Missing character: There is no ­ in font B Nazanin/OT:script=arab;language=DFLT
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [4] (./main.lof [5])
+ [4] [5] (./main.lof [6])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [6] (./main.lot)
+ [7]
+(./main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
-[7]
+ [8]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1452,8 +1453,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \openout2 = `introduction.aux'.
 
  (./introduction.tex
-LaTeX Font Info:    Font shape `EU1/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 17.27994pt on input line 1.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
 (Font)              scaled to size 9.59998pt on input line 6.
 LaTeX Font Info:    Font shape `EU1/BNazanin(0)/m/n' will be
@@ -1903,36 +1902,28 @@ Overfull \hbox (15.66757pt too wide) in paragraph at lines 176--177
  [][][][][] 
  []
 
-[56] [57]
-
-LaTeX Warning: Reference `eq:4-mind1' on page 58 undefined on input line 220.
-
-
-LaTeX Warning: Reference `eq:4-mind1' on page 58 undefined on input line 226.
-
-
-LaTeX Warning: Reference `fig:4-mind1' on page 58 undefined on input line 228.
-
-
-LaTeX Warning: Reference `fig:4-mind1' on page 58 undefined on input line 230.
-
-[58]
+[56] [57] [58]
 File: Imgs/mind1.png Graphic file (type QTm)
  <use  "Imgs/mind1.png" >
 Overfull \hbox (40.2594pt too wide) in paragraph at lines 235--236
  [][][][][][] 
  []
 
+Missing character: There is no ‌ in font [lmroman10-regular]/ICU:script=latn;la
+nguage=DFLT;mapping=tex-text;!
+Missing character: There is no ‌ in font [lmroman10-regular]/ICU:script=latn;la
+nguage=DFLT;mapping=tex-text;!
+Missing character: There is no ‌ in font [lmroman10-regular]/ICU:script=latn;la
+nguage=DFLT;mapping=tex-text;!
 
-LaTeX Warning: Reference `tbl:4-mind1' on page 59 undefined on input line 241.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Missing character: There is no ‌ in font [lmroman10-regular]/ICU:script=latn;la
-nguage=DFLT;mapping=tex-text;!
-Missing character: There is no ‌ in font [lmroman10-regular]/ICU:script=latn;la
-nguage=DFLT;mapping=tex-text;!
-Missing character: There is no ‌ in font [lmroman10-regular]/ICU:script=latn;la
-nguage=DFLT;mapping=tex-text;!
-) [59]
+File: Imgs/mindsEyeRes1.png Graphic file (type QTm)
+<use  "Imgs/mindsEyeRes1.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[59] [60] [61]) [62]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1970,7 +1961,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--127
 [][]
  []
 
-[60
+[63
 
 
 
@@ -2011,35 +2002,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--127
 
  (./attentionBasedImageCaptioning.tex
 
-LaTeX Warning: Reference `fig:5-1' on page 61 undefined on input line 18.
+LaTeX Warning: Reference `fig:5-1' on page 64 undefined on input line 18.
 
 File: Imgs/encoder-decoder.jpg Graphic file (type QTm)
 <use  "Imgs/encoder-decoder.jpg" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[61
+[64
 
 
 
-] [62]
+] [65]
 File: Imgs/5-decoder.png Graphic file (type QTm)
- <use  "Imgs/5-decoder.png" > [63] [64]
+ <use  "Imgs/5-decoder.png" > [66] [67]
 File: Imgs/biencoder.png Graphic file (type QTm)
  <use  "Imgs/biencoder.png" >
-[65]
+[68]
 File: Imgs/satenc.png Graphic file (type QTm)
- <use  "Imgs/satenc.png" > [66] [67] [68]
+ <use  "Imgs/satenc.png" > [69] [70] [71]
 Underfull \hbox (badness 10000) in paragraph at lines 218--219
 [][]
  []
 
-[69]
+[72]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: Imgs/show1.png Graphic file (type QTm)
-<use  "Imgs/show1.png" > [70]
+<use  "Imgs/show1.png" > [73]
 File: Imgs/show2.png Graphic file (type QTm)
  <use  "Imgs/show2.png" >
 Overfull \hbox (6.63383pt too wide) in paragraph at lines 319--320
@@ -2064,7 +2055,19 @@ File: Imgs/show5.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [71] [72] [73]
+[74]
+File: Imgs/abnmt.png Graphic file (type QTm)
+ <use  "Imgs/abnmt.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[75]
+File: Imgs/abedfw.png Graphic file (type QTm)
+ <use  "Imgs/abedfw.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[76] [77] [78] [79]) [80]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -2102,7 +2105,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--130
 [][]
  []
 
-[74
+[81
 
 
 
@@ -2141,14 +2144,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
 \openout2 = `activeMemoryBasedImageCaptioning.aux'.
 
- (./activeMemoryBasedImageCaptioning.tex [75
+ (./activeMemoryBasedImageCaptioning.tex [82
 
 
 
-] [76]
+] [83]
 File: Imgs/NeuralGPU.png Graphic file (type QTm)
 
-<use  "Imgs/NeuralGPU.png" > [77]
+<use  "Imgs/NeuralGPU.png" > [84]
 File: Imgs/markovianGPU.png Graphic file (type QTm)
  <use  "Imgs/markovianGPU.png" >
 File: Imgs/extendedGPU.png Graphic file (type QTm)
@@ -2157,20 +2160,9 @@ File: Imgs/extendedGPU.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[78]
-
-LaTeX Warning: Reference `footdir@294' on page 79 undefined on input line 135.
-
-
-LaTeX Warning: Reference `footdir@295' on page 79 undefined on input line 145.
-
-[79]
-
-LaTeX Warning: Reference `footdir@296' on page 80 undefined on input line 170.
-
-[80]
+[85] [86] [87]
 File: Imgs/activeMemoryRes2.png Graphic file (type QTm)
- <use  "Imgs/activeMemoryRes2.png" > [81]) [82]
+ <use  "Imgs/activeMemoryRes2.png" > [88]) [89]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -2208,7 +2200,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 [][]
  []
 
-[83
+[90
 
 
 
@@ -2247,29 +2239,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex [84
+ (./conclusion.tex [91
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
 [][]
  []
 
-[85] [86] [87] [88]) [89] (./main.bbl [90
+[92] [93] [94] [95] [96] [97] [98] [99] [100]) [101] (./main.bbl [102
 
-] [91]
-Underfull \hbox (badness 1215) in paragraph at lines 243--248
+] [103]
+Underfull \hbox (badness 1215) in paragraph at lines 263--268
 []\EU1/lmroman10-regular(0)/m/n/12 Uijlings, Jasper RR, van de Sande, Koen EA, 
 Gevers, Theo, and Smeulders,
  []
 
-[92])
+[104])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
- [93]
+ [105]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
- (./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux)
-(./sceneUnderstanding.aux) (./sentenceGeneration.aux)
+ (./main.aux (./firstPage.aux) (./abstract.aux) (./introduction.aux) (./sceneUn
+derstanding.aux) (./sentenceGeneration.aux)
 (./deepImageCaptioning.aux) (./attentionBasedImageCaptioning.aux)
 (./activeMemoryBasedImageCaptioning.aux) (./conclusion.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 140.
@@ -2278,18 +2270,15 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 140.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 25632 strings out of 493918
- 468713 string characters out of 6150563
+ 25662 strings out of 493918
+ 469218 string characters out of 6150563
  553353 words of memory out of 5000000
- 28431 multiletter control sequences out of 15000+600000
- 10715 words of font info for 109 fonts, out of 8000000 for 9000
+ 28456 multiletter control sequences out of 15000+600000
+ 10723 words of font info for 110 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  45i,27n,47p,10452b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (100 pages).
+Output written on main.pdf (113 pages).

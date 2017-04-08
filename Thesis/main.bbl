@@ -77,6 +77,17 @@ Karpathy, Andrej and Fei-Fei, Li.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{chen2015mind}
+Chen, Xinlei and Lawrence~Zitnick, C.
+\newblock Mind's eye: A recurrent visual representation for image caption
+  generation.
+\newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition},  pp. 2422--2431, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{bahdanau2014neural}
 Bahdanau, Dzmitry, Cho, Kyunghyun, and Bengio, Yoshua.
 \newblock Neural machine translation by jointly learning to align and
@@ -93,6 +104,15 @@ Xu, Kelvin, Ba, Jimmy, Kiros, Ryan, Cho, Kyunghyun, Courville, Aaron~C,
 \newblock Show, attend and tell: Neural image caption generation with visual
   attention.
 \newblock  in {\em ICML},  vol.~14,  pp. 77--81, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{luong2015effective}
+Luong, Minh-Thang, Pham, Hieu, and Manning, Christopher~D.
+\newblock Effective approaches to attention-based neural machine translation.
+\newblock {\em arXiv preprint arXiv:1508.04025}, 2015.
 
 \end{LTRbibitems}
 
@@ -319,12 +339,21 @@ Mikolov, Tomas, Karafi{\'a}t, Martin, Burget, Lukas, Cernock{\`y}, Jan, and
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{chen2015mind}
-Chen, Xinlei and Lawrence~Zitnick, C.
-\newblock Mind's eye: A recurrent visual representation for image caption
-  generation.
+\bibitem{yang2016stacked}
+Yang, Zichao, He, Xiaodong, Gao, Jianfeng, Deng, Li, and Smola, Alex.
+\newblock Stacked attention networks for image question answering.
 \newblock  in {\em Proceedings of the IEEE Conference on Computer Vision and
-  Pattern Recognition},  pp. 2422--2431, 2015.
+  Pattern Recognition},  pp. 21--29, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{cho2015describing}
+Cho, Kyunghyun, Courville, Aaron, and Bengio, Yoshua.
+\newblock Describing multimedia content using attention-based encoder-decoder
+  networks.
+\newblock {\em IEEE Transactions on Multimedia}, 17(11):1875--1886, 2015.
 
 \end{LTRbibitems}
 
